@@ -30,7 +30,6 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
   * Scikitlearn- Version 1.0.1
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by the steps and insights given to us during our live sessions and couse provied by UpGrad and IIIT(B)
 
 ## Author
